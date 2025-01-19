@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Channel 1
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 2
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 3
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 4
+http://tv.cloudcdn.me:80/live.ts?channelId=40482&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 5
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 6
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 7
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1,Channel 8
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=5175&deviceMac=00:1A:79:E5:A9:30
+#EXTINF:-1,Channel 9
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=430737&extension=ts
+#EXTINF:-1,Channel 10
+http://170.254.18.107/ZEE/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Channel 11
+https://zee5.developed-for-cassie.workers.dev
+#EXTINF:-1,Channel 12
+http://170.254.18.107/SONY/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Channel 13
+http://170.254.18.107/SONY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 14
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF:-1,Channel 15
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1,Channel 16
+http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8
+#EXTINF:-1,Channel 17
+http://170.254.18.107/CINEPLEX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 18
+http://170.254.18.107/ZEECINEMA/tracks-a1/mono.m3u8
+#EXTINF:-1,Channel 19
+http://212.102.60.231/NICK_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 20
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
