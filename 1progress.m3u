@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Sony_Max_%28India%29.png" tvg-name="Sony Max",Sony Max
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Colors_Marathi.png" tvg-name="Colors Marathi",Colors Marathi
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Sony_Max_2.png" tvg-name="Sony Max 2",Sony Max 2
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Sony_Pal.png" tvg-name="Sony Pal",Sony Pal
+http://tv.cloudcdn.me:80/live.ts?channelId=40482&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Sony_Pix.png" tvg-name="Sony Pix HD",Sony Pix HD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Sony_SAB.png" tvg-name="Sony Sab HD",Sony Sab HD
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sony_Wah.png" tvg-name="Sony Wah",Sony Wah
+http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Star_Vijay.png" tvg-name="Star Tamil",Star Tamil
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=5175&deviceMac=00:1A:79:E5:A9:30
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Sony_Ten_2.png" tvg-name="Sony Sports 2",Sony Sports 2
+http://pythonlived.com:2052/play/live.php?mac=00:1a:79:c6:cc:db&stream=430737&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Zee_TV.png" tvg-name="Zee TV HD",Zee TV HD
+http://170.254.18.107/ZEE/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Sony_Max_%28India%29.png" tvg-name="Sony HD",Sony HD
+http://170.254.18.107/SONY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Colors_Marathi.png" tvg-name="Colors",Colors
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Sony_Max_2.png" tvg-name="Cineplex",Cineplex
+http://170.254.18.107/CINEPLEX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Zee_TV.png" tvg-name="Zee Cinema",Zee Cinema
+http://170.254.18.107/ZEECINEMA/tracks-V1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Nick_Jr._logo_2009.svg" tvg-name="Nick Jr.",Nick Jr.
+http://212.102.60.231/NICK_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Pogo_TV.png" tvg-name="Pogo",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/B4U_Movies.png" tvg-name="B4U Movies",B4U Movies
+http://172.105.123.238:18003/play/a010
+
